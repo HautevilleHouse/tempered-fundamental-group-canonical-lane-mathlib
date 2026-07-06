@@ -1,0 +1,7 @@
+-- This module is the root of the TemperedFundamentalGroupCanonicalLaneLean Lean proof package.
+import TemperedFundamentalGroupCanonicalLaneLean.Basic
+import TemperedFundamentalGroupCanonicalLaneLean.SourcePackage
+import TemperedFundamentalGroupCanonicalLaneLean.SourceDependencies
+import TemperedFundamentalGroupCanonicalLaneLean.Formalization
+import TemperedFundamentalGroupCanonicalLaneLean.ReviewerBridge
+import TemperedFundamentalGroupCanonicalLaneLean.TheoremStatement
